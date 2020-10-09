@@ -14,7 +14,8 @@
  * limitations under the License.
  * NOTICE in compliance with the License - modified by max
  */
-
+ @import 'material_design_lite';
+ @import '../../../node_modules/material-design-lite/src/material-design-lite';
  html, body {
     font-family: 'Roboto', 'Helvetica', sans-serif;
     margin: 0;
